@@ -160,7 +160,21 @@ RISE/
 
 ## Super Admin Dashboard
 
-![Super Admin Dashboard](screenshots/superadmin-dashboard.png)
+![Super Admin Dashboard] <img width="1919" height="1079" alt="Screenshot 2026-03-04 115857" src="https://github.com/user-attachments/assets/8ac31e17-07f1-4440-8318-29e94a0ece2e" />
+<img width="1919" height="1077" alt="Screenshot 2026-03-04 130737" src="https://github.com/user-attachments/assets/b8937311-4e5d-4eeb-9677-f98056786b25" />
+<img width="1919" height="1079" alt="Screenshot 2026-03-04 130800" src="https://github.com/user-attachments/assets/59c90ae2-0d91-49a3-8e9f-8d9ca5294e0e" />
+<img width="1919" height="1079" alt="Screenshot 2026-03-04 130811" src="https://github.com/user-attachments/assets/17ea8d2f-447a-4c79-9bf8-5b0d82f8bfec" />
+<img width="1919" height="1079" alt="Screenshot 2026-03-04 130818" src="https://github.com/user-attachments/assets/56aab0a7-ec3c-4669-b75d-4fea255e1066" />
+<img width="1919" height="1079" alt="Screenshot 2026-03-04 130825" src="https://github.com/user-attachments/assets/73f1176f-2486-439f-ac65-241e7a27eedf" />
+<img width="1919" height="1079" alt="Screenshot 2026-03-04 130832" src="https://github.com/user-attachments/assets/b27b28d6-75ac-42ef-90b6-08e57f3668e0" />
+<img width="1919" height="1079" alt="Screenshot 2026-03-04 130840" src="https://github.com/user-attachments/assets/22c04f3d-2e67-49c8-8c8e-a5c111c8e41a" />
+<img width="1919" height="1079" alt="Screenshot 2026-03-04 130848" src="https://github.com/user-attachments/assets/080354ef-7716-4dce-a595-3a04c407892a" />
+<img width="1919" height="1078" alt="Screenshot 2026-03-04 130855" src="https://github.com/user-attachments/assets/f329aa57-b29c-48ae-b2dc-3474e8862627" />
+<img width="1919" height="1077" alt="Screenshot 2026-03-04 130903" src="https://github.com/user-attachments/assets/fd98c0de-25fc-44b9-b0f2-9fd4afe540fb" />
+<img width="1919" height="1076" alt="Screenshot 2026-03-04 130912" src="https://github.com/user-attachments/assets/cdcced48-c2c9-475f-ac7b-6f1c131874fa" />
+
+
+
 
 Super Admin can manage:
 
@@ -174,7 +188,18 @@ Super Admin can manage:
 
 ## Institute Admin Dashboard
 
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard]
+<img width="1919" height="1079" alt="Screenshot 2026-03-04 131610" src="https://github.com/user-attachments/assets/c570daeb-8c74-4e68-84a3-6e40c938983b" />
+<img width="1919" height="1079" alt="Screenshot 2026-03-04 131558" src="https://github.com/user-attachments/assets/90fa1f9c-c4f1-4909-bcc4-9f6c05445b1f" />
+<img width="1919" height="1079" alt="Screenshot 2026-03-04 131544" src="https://github.com/user-attachments/assets/33b45264-2547-493b-837c-f3fd719f44bf" />
+<img width="1918" height="1079" alt="Screenshot 2026-03-04 131537" src="https://github.com/user-attachments/assets/fac1d33c-28c0-470a-aea2-06e488218acf" />
+<img width="1919" height="1079" alt="Screenshot 2026-03-04 131523" src="https://github.com/user-attachments/assets/1f768eaf-77bb-40dc-9e51-4055397fe71f" />
+<img width="1918" height="1079" alt="Screenshot 2026-03-04 131516" src="https://github.com/user-attachments/assets/34829932-5610-479e-8cc4-de10cf7c2f72" />
+<img width="1919" height="1079" alt="Screenshot 2026-03-04 131507" src="https://github.com/user-attachments/assets/0da70d0b-b025-4910-b371-8a2351bb1aff" />
+<img width="1919" height="1079" alt="Screenshot 2026-03-04 131455" src="https://github.com/user-attachments/assets/72719d59-5f3d-45c2-b90d-5ba19aefd723" />
+<img width="1918" height="1079" alt="Screenshot 2026-03-04 130950" src="https://github.com/user-attachments/assets/0faae035-941a-4abf-94ff-e8379918b4f5" />
+
+
 
 Institute Admin can manage:
 
@@ -187,7 +212,9 @@ Institute Admin can manage:
 
 ## Student Management
 
-![Student Management](screenshots/student-management.png)
+![Student Management]
+<img width="1918" height="1079" alt="Screenshot 2026-03-04 131537" src="https://github.com/user-attachments/assets/28d62f55-2c5b-415d-9268-2e2f74d6ba01" />
+
 
 Admins can add and manage student records including academic details and documents.
 
@@ -195,7 +222,10 @@ Admins can add and manage student records including academic details and documen
 
 ## Marks Entry System
 
-![Marks Entry](screenshots/marks-entry.png)
+![Marks Entry]
+<img width="1918" height="1079" alt="Screenshot 2026-03-04 131516" src="https://github.com/user-attachments/assets/9ec8c964-c00e-44cd-b23c-8e77ef5514b9" />
+
+
 
 Marks can be entered subject-wise and the system automatically calculates grades and percentages.
 
@@ -203,7 +233,10 @@ Marks can be entered subject-wise and the system automatically calculates grades
 
 ## Certificate Generation
 
-![Certificate](screenshots/certificate.png)
+![Certificate]
+<img width="1919" height="1079" alt="Screenshot 2026-03-04 131610" src="https://github.com/user-attachments/assets/6b1af797-9f53-436c-ae45-de7416a5af17" />
+
+
 
 Certificates are automatically generated once students complete their program.
 
