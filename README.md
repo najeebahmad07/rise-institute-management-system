@@ -252,7 +252,7 @@ Follow these steps to run the project locally.
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/rise.git
+git clone https://github.com/najeebahmad07/rise-institute-management-system.git
 ```
 
 ### 2. Move the project
@@ -314,8 +314,14 @@ This project is available for **educational and development purposes**.
 
 ---
 
+# Live 
+
+**www.reliableinclusiveskilledu.in**
+
+---
+
 # Developer
 
 Developed by **Najeeb Ahmad**
 
-Web Developer | Software Developer
+ Software Developer
