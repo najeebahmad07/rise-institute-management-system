@@ -160,7 +160,7 @@ RISE/
 
 ## Super Admin Dashboard
 
-![Super Admin Dashboard] <img width="1919" height="1079" alt="Screenshot 2026-03-04 115857" src="https://github.com/user-attachments/assets/8ac31e17-07f1-4440-8318-29e94a0ece2e" />
+![Super Admin Dashboard]  
 <img width="1919" height="1077" alt="Screenshot 2026-03-04 130737" src="https://github.com/user-attachments/assets/b8937311-4e5d-4eeb-9677-f98056786b25" />
 <img width="1919" height="1079" alt="Screenshot 2026-03-04 130800" src="https://github.com/user-attachments/assets/59c90ae2-0d91-49a3-8e9f-8d9ca5294e0e" />
 <img width="1919" height="1079" alt="Screenshot 2026-03-04 130811" src="https://github.com/user-attachments/assets/17ea8d2f-447a-4c79-9bf8-5b0d82f8bfec" />
@@ -189,7 +189,7 @@ Super Admin can manage:
 ## Institute Admin Dashboard
 
 ![Admin Dashboard]
-<img width="1919" height="1079" alt="Screenshot 2026-03-04 131610" src="https://github.com/user-attachments/assets/c570daeb-8c74-4e68-84a3-6e40c938983b" />
+ 
 <img width="1919" height="1079" alt="Screenshot 2026-03-04 131558" src="https://github.com/user-attachments/assets/90fa1f9c-c4f1-4909-bcc4-9f6c05445b1f" />
 <img width="1919" height="1079" alt="Screenshot 2026-03-04 131544" src="https://github.com/user-attachments/assets/33b45264-2547-493b-837c-f3fd719f44bf" />
 <img width="1918" height="1079" alt="Screenshot 2026-03-04 131537" src="https://github.com/user-attachments/assets/fac1d33c-28c0-470a-aea2-06e488218acf" />
